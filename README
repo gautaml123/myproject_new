@@ -1,0 +1,7 @@
+on branch b1, there are 4 files 
+file1, file2, file3, file4
+
+on master branch only file1 is present
+
+after merging b1 wih master, file2,3,4 does not reflect when switching to master branch. WHY?
+
